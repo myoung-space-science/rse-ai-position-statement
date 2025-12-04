@@ -1,7 +1,7 @@
 ## Position Statement on Generative AI in the RSE Workplace
 
 ### Preamble
-Over a four month period, we engaged with over 100 research software engineers at a number of community events (SciPy, RSECon 25, US-RSE 2025, Supercomputing 2025) to better understand the impacts of Generative AI (GenAI) on the work of Research Software Engineers (RSEs). Through these conversations we have seen an interest from the RSE community to make a public statement about how GenAI is impacting RSEs and the vision that RSEs have for their profession in this new technological landscape. 
+Over a four month period, we engaged with over 100 research software engineers at a number of community events (SciPy, RSECon 25, US-RSE 2025) to better understand the impacts of Generative AI (GenAI) on the work of Research Software Engineers (RSEs). Through these conversations we have seen an interest from the RSE community to make a public statement about how GenAI is impacting RSEs and the vision that RSEs have for their profession in this new technological landscape. 
 
 Research software engineering – building and maintaining software to enhance research – is an indispensable part of modern research. Since computing entered the research toolkit, RSEs have been integral to research across disciplines through the software and infrastructure they build and maintain.
 
@@ -22,6 +22,9 @@ As these methods and infrastructure grow more complex and computational, we must
 
 #### Closing gaps in knowledge
 The widespread emergence of GenAI is disrupting many sectors, including the RSE community. As with any new technology, time to experiment and guidance on when and how to use it are critical for integrating GenAI successfully into the research enterprise. Closing knowledge gaps depends on professional development, mentorship, and the sharing of new ideas – areas often hobbled, rather than helped by GenAI. RSEs need tailored training, best practices, and institutional policies that reflect the realities of research software development, not just generic software engineering. The community must also invest in mentoring and knowledge exchange so junior RSEs build strong foundations and grow into future RSE team leaders.
+
+### Agility in a changing landscape
+The change of capabilities, expectations and understanding of GenAI has been rapid and development is likely to continue apace for the foreseeable future. As Research Software Engineers working at the forefront of research and technology, we recognise the need to adapt, adjust and develop as the situation changes. Agility sits at the heart of software engineering and Research Software Engineers are best placed to steer their position as things develop.
 
 #### Conclusion
 As Research Software Engineers, we recognize that our work is critical to the success of modern research across all sectors. With the emergence of GenAI, RSEs are tasked with the challenge of evaluating and incorporating the technology into a complex ecosystem of research infrastructure. We must ensure that GenAI is used responsibly and in a way that is compatible with the ethos of the modern, open, computational research enterprise, and this can only be accomplished through careful evaluation, implementation, and training. 
