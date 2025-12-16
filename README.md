@@ -1,6 +1,5 @@
 # Readme
-## Position statement on AI in the RSE workplace
-
+## About this position statement
 
 Over a four-month period in 2025, more than 200 RSEs gathered to discuss the state of GenAI in the RSE workplace. These gatherings (at SciPy, RSECon 25, US-RSE 2025, Supercomputing 2025) allowed RSEs to discuss the impacts of GenAI on the work of research software engineering. Through these conversations, the RSE community has determined to create this public statement on how GenAI is impacting RSEs, and the vision RSEs have for their profession in this new technological landscape. 
 
