@@ -8,7 +8,7 @@ This position statement was developed based on the input collected from RSEs at 
 
 If you are interested in <strong>signing the finalized position statement</strong>, you're in the right place! 
 
-## [Sign the position statement](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/rse-ai-final-statement.md)
+## [Sign the position statement](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)
 
 ### Next Steps
 
