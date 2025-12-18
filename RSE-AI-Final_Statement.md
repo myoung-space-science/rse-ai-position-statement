@@ -42,7 +42,7 @@ The work of Research Software Engineers is critical to the success of modern res
 
 
 # Signed
-(name, institutional affiliation)
+Daniel S. Katz, University of Illinois Urbana-Champaign
 
 
 
