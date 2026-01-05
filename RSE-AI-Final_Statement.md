@@ -59,3 +59,6 @@ Daniel Morillo-Cuadrado, Universidad Nacional de Educación a Distancia (Spain)
 Sandra Gesing, US-RSE; San Diego Supercomputer Center
 
 Benjamin C. Haller, Cornell University
+
+Murillo F. Rodrigues, Oregon Health & Science University
+
