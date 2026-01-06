@@ -1,7 +1,7 @@
 ---
 name: Signature Template
 about: Use this template to add your signature to the position statement on AI in the RSE workplace
-title: ''
+title: 'New Signature'
 labels: ''
 assignees: ''
 
