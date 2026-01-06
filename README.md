@@ -10,8 +10,8 @@ If you are interested in __signing [the finalized position statement](https://gi
 ## Sign the position statement
 
 1. __Review__ [the position statement](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)
-2. __Add your signature via a [pull request](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/pulls)__
-3. The signed position statement will be published <strong>by the end of January</strong> and distributed broadly
+2. __Add your signature__ via a [__pull request__](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/pulls) OR by submitting an [__Issue__](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/issues/new?template=signature_template.md)
+3. The signed position statement will be published __in mid February 2026__ and distributed broadly
 </ol>
 
 ## Not sure if you should sign?
