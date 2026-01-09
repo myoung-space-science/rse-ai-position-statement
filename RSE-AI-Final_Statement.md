@@ -78,3 +78,20 @@ Elle O'Brien, University of Michigan
 
 Matthew Thompson, The Ohio State University
 
+Neil P. Chue Hong, University of Edinburgh
+
+Aleksandra Nenadic, University of Manchester, UK
+
+Mike Simpson, Newcastle University
+
+Sadie Bartholomew, National Centre for Atmospheric Science and University of Reading
+
+Magnus Hagdorn, Universitätsmedizin Berlin
+
+Abhishek Dasgupta, University of Oxford
+
+
+
+
+
+*The views and opinions expressed in this statement are the signatories' own and do not necessarily reflect the views and opinions of their institutions.*
