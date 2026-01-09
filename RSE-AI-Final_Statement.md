@@ -76,6 +76,8 @@ Jim Pivarski, University of Chicago
 
 Elle O'Brien, University of Michigan
 
+Matthew Thompson, The Ohio State University
+
 Neil P. Chue Hong, University of Edinburgh
 
 Aleksandra Nenadic, University of Manchester, UK
