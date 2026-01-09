@@ -90,6 +90,12 @@ Magnus Hagdorn, Universitätsmedizin Berlin
 
 Abhishek Dasgupta, University of Oxford
 
+Margaret Levenstein, ICPSR and the University of Michigan
+
+Georg Heiler, Complexity Science Hub Vienna
+
+Patrick J. Roddy, University College London
+
 
 
 
