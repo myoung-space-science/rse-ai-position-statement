@@ -96,6 +96,13 @@ Georg Heiler, Complexity Science Hub Vienna
 
 Patrick J. Roddy, University College London
 
+Dr. Cathy Wu, University of Delaware
+
+Dr. Benjamin Bagozzi, University of Delaware
+
+Annie Johnson, PhD, University of Delaware
+
+
 
 
 
