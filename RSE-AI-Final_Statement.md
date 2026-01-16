@@ -102,6 +102,8 @@ Dr. Benjamin Bagozzi, University of Delaware
 
 Annie Johnson, PhD, University of Delaware
 
+Dr. Kevin Rue-Albrecht, University of Oxford
+
 Jonathan Taylor, University of Manchester
 
 Nick Rhodes, University of Leeds
